@@ -1,29 +1,46 @@
 # Campus Meal Zone 🍽️
 
-A full-stack web application designed to manage campus food ordering and meal services.
+Campus Meal Zone is a **full-stack web application** designed to manage **campus food ordering and meal services**.  
+The project uses a **React-based frontend** and a **PHP/MySQL backend running on XAMPP** to handle data storage and server-side operations.
 
-## Features
-- User-friendly interface for food ordering
-- Backend API for handling orders
-- Database integration for storing food and user data
-- Separate frontend and backend architecture
+---
 
-## Project Structure
-- frontend/ : User interface
-- backend/ : Server-side logic
-- cafe.sql : Database schema
+## 🚀 Features
 
-## Technologies Used
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js
-- Database: MySQL
-- Tools: VS Code, Git, XAMPP
+- 🧑‍🎓 Student-friendly interface for browsing and ordering food  
+- 🛠️ Admin dashboard for managing categories, items, users, and orders  
+- 🔐 User authentication and role-based access  
+- 📦 Order management and tracking  
+- 🗄️ MySQL database integration using XAMPP  
+- 🧩 Separate frontend and backend architecture  
 
-## How to Run the Project
-1. Clone the repository
-2. Install dependencies using `npm install`
-3. Import `cafe.sql` into MySQL
-4. Start backend and frontend servers
+---
 
-## Status
-Completed
+## 🧰 Tech Stack
+
+### Frontend
+- ⚛️ React.js  
+- 🎨 HTML, CSS, JavaScript   
+
+### Backend
+- 🐘 PHP (via XAMPP)  
+
+### Database
+- 🐬 MySQL  
+
+### Tools & Platforms
+- 🧑‍💻 VS Code  
+- 🔧 Git & GitHub  
+- 🗃️ XAMPP  
+
+---
+
+## 📂 Project Structure
+
+```text
+campus-meal-zone/
+├── frontend/        # React user interface
+├── backend/         # PHP backend (XAMPP)
+├── cafe.sql         # MySQL database schema
+├── .gitignore
+└── README.md
